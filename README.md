@@ -2,7 +2,7 @@
 Containers Doc SnowAltas 
 
 
-"""
+```
 Set up container connectors
 Container connectors enable data to be collected and transferred from your Kubernetes environment to Snow Atlas. You create container connectors in Snow Atlas and use Helm charts to install them in your clusters.
 
@@ -137,4 +137,4 @@ helm upgrade snow-connector \
       snowsoftware/snowsoftware-connector-k8
 
 Snow Software does not own the third party trademarks, software, products, or tools (collectively, the "Third Party Products") referenced herein. Third Party Product updates, including user interface updates, may not be reflected in this content.
-"""
+
